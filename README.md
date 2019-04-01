@@ -1,6 +1,6 @@
 pyrouge
 =======
-
+[Install](https://blog.csdn.net/jolinxia/article/details/77508435)
 A Python interface to the ROUGE package.
 
 Right now, only the basic functionality is in place. You can score one summary at a time with respect to multiple reference summaries.
